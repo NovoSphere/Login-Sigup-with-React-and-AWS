@@ -125,6 +125,6 @@ const register2 = (otp) => {
       });
   });
 };
-  return <AuthContext.Provider value={{ currentUser, register, register2,Validation,register1,data,apiData }}>{children}</AuthContext.Provider>;
+  return <AuthContext.Provider value={{ currentUser, register, register2,Validation,register1,apiData }}>{children}</AuthContext.Provider>;
 };
 
