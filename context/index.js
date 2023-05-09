@@ -1,5 +1,0 @@
-export { default as StartScreen } from '../src/screens/StartScreen'
-export { default as LoginScreen } from '../src/screens/LoginScreen'
-export { default as RegisterScreen } from '../src/screens/RegisterScreen'
-export { default as ResetPasswordScreen } from '../src/screens/ResetPasswordScreen'
-export { default as Dashboard } from '../src/screens/Dashboard'
