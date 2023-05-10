@@ -22,3 +22,11 @@
  <li> npm i react-native-screens </li>
  <li> npm i react-native-status-bar-height </li>
  <li> npm i react-native-web </li>
+ 
+     And this is the second line.&lt;/p&gt;</code>
+  </td>
+  <td>
+    <p>This is the first line.<br />   
+    And this is the second line.</p>
+  </td>
+</tr>
