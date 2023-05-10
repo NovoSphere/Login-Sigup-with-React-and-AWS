@@ -8,7 +8,7 @@
  Enter Command In Terminal : ![Screenshot 2023-05-10 084257](https://github.com/NovoSphere/Login-Sigup-with-React-and-AWS/assets/112673081/2c48e1e8-95cd-4a13-b46c-9a532bf189f9)
  
  Enter All Commands Individually : 
- <li> npm i @react-native-community/masked-view </li>
+ ``` npm i @react-native-community/masked-view ```
  <li> npm i @react-navigation/native </li>
  <li> npm i @react-navigation/stack </li>
  <li> npm i axios </li>
@@ -23,10 +23,3 @@
  <li> npm i react-native-status-bar-height </li>
  <li> npm i react-native-web </li>
  
-     And this is the second line.&lt;/p&gt;</code>
-  </td>
-  <td>
-    <p>This is the first line.<br />   
-    And this is the second line.</p>
-  </td>
-</tr>
