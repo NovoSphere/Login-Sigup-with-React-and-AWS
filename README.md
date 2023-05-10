@@ -11,17 +11,48 @@
  ```c 
  npm i @react-native-community/masked-view;
  ```
- <li> npm i @react-navigation/native </li>
- <li> npm i @react-navigation/stack </li>
- <li> npm i axios </li>
- <li> npm i babel-eslint </li>
- <li> npm i eslint </li>
- <li> npm i react-native-axios </li>
- <li> npm i react-native-gesture-handler </li>
- <li> npm i react-native-paper </li>
- <li> npm i react-native-reanimated </li>
- <li> npm i react-native-safe-area-context </li>
- <li> npm i react-native-screens </li>
- <li> npm i react-native-status-bar-height </li>
- <li> npm i react-native-web </li>
- 
+  ```c 
+ npm i @react-navigation/native;
+ ```
+  ```c 
+ npm i @react-navigation/stack;
+ ```
+  ```c 
+ npm i @types/react;
+ ```
+  ```c 
+ npm i axios;
+ ```
+  ```c 
+ npm i babel-eslint;
+ ```
+  ```c 
+ npm i eslint;
+ ```
+  ```c 
+ npm i expo-status-bar;
+ ```
+  ```c 
+ npm i react-native-axios;
+ ```
+  ```c 
+ npm i react-native-gesture-handler;
+ ```
+   ```c 
+ npm i react-native-paper;
+ ```
+   ```c 
+ npm i react-native-reanimated;
+ ```
+   ```c 
+ npm i react-native-safe-area-context;
+ ```
+   ```c 
+ npm i react-native-screens;
+ ```
+   ```c 
+ npm i react-native-status-bar-height;
+ ```
+   ```c 
+ npm i react-native-web;
+ ```
