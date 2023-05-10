@@ -2,5 +2,6 @@
  A simple Login and SignUp system using React Native and AWS
 
 # Step 1 :
- Enter Command In Terminal : npm i expo
+ Enter Command In Terminal : ![Screenshot 2023-05-10 083838](https://github.com/NovoSphere/Login-Sigup-with-React-and-AWS/assets/112673081/8bd5e1e6-5240-4817-bdf6-2309e9501f5e)
+
  
