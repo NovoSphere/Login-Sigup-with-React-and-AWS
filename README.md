@@ -13,50 +13,5 @@
  
  Enter All Commands Individually : 
  ```c 
- npm i @react-native-community/masked-view
- ```
-  ```c 
- npm i @react-navigation/native
- ```
-  ```c 
- npm i @react-navigation/stack
- ```
-  ```c 
- npm i @types/react
- ```
-  ```c 
- npm i axios
- ```
-  ```c 
- npm i babel-eslint
- ```
-  ```c 
- npm i eslint
- ```
-  ```c 
- npm i expo-status-bar
- ```
-  ```c 
- npm i react-native-axios
- ```
-  ```c 
- npm i react-native-gesture-handler
- ```
-   ```c 
- npm i react-native-paper
- ```
-   ```c 
- npm i react-native-reanimated
- ```
-   ```c 
- npm i react-native-safe-area-context
- ```
-   ```c 
- npm i react-native-screens
- ```
-   ```c 
- npm i react-native-status-bar-height
- ```
-   ```c 
- npm i react-native-web
+ npm i
  ```
